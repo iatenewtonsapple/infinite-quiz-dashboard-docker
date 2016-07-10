@@ -1,0 +1,6 @@
+# docker-compose up
+version: '2'
+services:
+  server01:
+   build: 
+      context: .

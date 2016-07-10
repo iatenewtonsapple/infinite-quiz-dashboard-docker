@@ -1,0 +1,13 @@
+curl
+git
+nginx
+gettext-base
+nodejs
+nmap
+npm
+rsyslog
+supervisor
+unzip
+vim
+wget
+zip
