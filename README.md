@@ -12,5 +12,5 @@ docker run -i -t -p 5000:80 --name infinite-quiz-dashboard-live iatenewtonsapple
 
 ## Running in production
 ```
-docker run -d -p 89:80 --name infinite-quiz-dashboard-live iatenewtonsapple/infinite-quiz-dashboard
+docker run -d -p 80:80 --name infinite-quiz-dashboard-live iatenewtonsapple/infinite-quiz-dashboard
 ```
